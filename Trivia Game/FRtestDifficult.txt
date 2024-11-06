@@ -1,0 +1,10 @@
+*What is the name of Monica's hot cousin?;[a] Susan;[b] Katie;[c] Cassie;[d] Precious;c;
+*What was the name of detergent used by Rachel and Ross?;[a] Toughweiss;[b] Uberweiss;[c] Extraweiss;[d] Snuggles;b;
+*Where does Mona work?;[a] Museum;[b] Chandler's office;[c] University;[d] Monica's restaurant;d;
+*What is the name of Cheryl's pet hamster;[a] Molly;[b] Missy;[c] Mitzi;[d] Twinkles;c;
+*What is the name of the bridesmaid in Ross and Emily's wedding who likes Joey?;[a] Katie;[b] Victoria;[c] Felicity;[d] Mona;c;
+*What was the name of Joey's leather recliner?;[a] Stevie;[b] Rosita;[c] Yasmine;[d] Minnie;b;
+*What animal freaks Rachel out?;[a] fish;[b] snake;[c] dog;[d] hamster;a;
+*What is the name of Chandler's roommate after Joey moves out?;[a] Mark;[b] Eddie;[c] Ross;[d] Kip;b;
+*What was Emma's first word?;[a] Mleeba;[b] Cleeba;[c] Leeba;[d] Gleba;d;
+*Which three scrabble tiles did Marcel swallow?;[a] A,B,C;[b] M,O,N;[c] M,N,K;[d] M,O,K;d;

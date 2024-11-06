@@ -1,0 +1,10 @@
+*It is often called a statement which instructs the interpreter to do something.;[a] command;[b] definition;[c] shell;[d] order;a
+*What is the term used to refer to the sequence of steps to solve a problem?;[a] Algorithm;[b] Specification;[c] Program;[d] Procedure;a
+*What is the term used to refer to the algorithm written in a programming language ready for compilation and execution?;[a] Algorithm;[b] Specification;[c] Program;[d] Procedure;c
+*It  is a logical or Boolean expression which evaluates to either true or false.;[a] definition;[b] command;[c] condition;[d] shell;c
+*This is a predefined function used to output data.;[a] output();[b] return;[c] print();[d] return();c
+*This enhances code readability and begins with #.;[a] tag;[b] note;[c] comment;[d] hashtag;c
+*Python variable names can contain the following except:;[a] 5;[b] fgh;[c] _;[d] !;d
+*This provides a way to associate names with objects.;[a] Variable;[b] Assignment;[c] Data;[d] Specification;a
+*What is the operator // for?;[a] Double Multiplication;[b] Double Division;[c] Modulus;[d] Floor Division;d
+*The following are scalar objects except:;[a] int;[b] float;[c] None;[d] list;d

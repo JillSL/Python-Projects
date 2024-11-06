@@ -1,0 +1,10 @@
+*This is a system that executes several instructions at the same time.;[a] Parallel System;[b] Distributed System;[c] Machine Organization;[d] Organization System;a
+*It is a collection of independent computers that appears to the user as a single computer.;[a] Parallel System;[b] Distributed System;[c] Machine Organization;[d] Organization System;b
+*It provides interface between the user and computer that allows high level commands to be issued by the user.;[a] Command Interpreter;[b] Parallel System;[c] Machine Organization;[d] Communication and Resource Sharing;a
+*It is a program that acts as an intermediary between a user of a computer and the computer hardware.;[a] Command Interpreter;[b] Programming Language;[c] Operating System;[d] System Support;c
+*It is a .pyfile containing Python definitions and statements.;[a] shell;[b] block;[c] module;[d] file;c
+*This follows the concept of LIFO (last in, first out).;[a] Queue;[b] Tree;[c] Pop;[d] Stack;d
+*The main idea of this sorting algorithm is to iteratively find the smallest/largest value.;[a] Selection Sort;[b] Bubble Sort;[c] Insertion Sort;[d] Linear Sort;a
+*It contains the circuitry for coordinating the activities of the computer.;[a] Arithmetic Logic Unit;[b] Coordination Unit;[c] Processing Unit;[d] Control Unit;d
+*These are used as temporary storage inside the CPU.;[a] Main Memory;[b] Secondary Memory;[c] Registers;[d] Bus;c
+*It contains the address of the next instruction to be executed.;[a] Program Counter;[b] Instruction Register;[c] Address Register;[d] Special Register;a

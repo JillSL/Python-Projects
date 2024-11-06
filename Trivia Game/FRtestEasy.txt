@@ -1,0 +1,10 @@
+*What is the name of Ross' sister?;[a] Rachel;[b] Monica;[c] Phoebe;[d] Janice;b;
+*What is Monica's job?;[a] doctor;[b] masseuse;[c] actress;[d] chef;d;
+*Who secretly loves Rachel?;[a] Ross;[b] Gunther;[c] Paul;[d] Chandler;b;
+*What is the theme song of the show?;[a] Friends Like Us;[b] I'll be There for You;[c] Friends;[d] Stay Together;b;
+*What is Joey's favorite food?;[a] Sandwiches;[b] Pasta;[c] Pizza;[d] Jam;a;
+*What is the name of the coffee place the group used to hang out at?;[a] Seb's;[b] Riff's;[c] Starbucks;[d] Central Perk;d;
+*What is NOT true about Phoebe?;[a] Phoebe is a chef.;[b] Phoebe is a vegeterian.;[c] Phoebe married Mike.;[d] Phoebe has a twin sister.;a;
+*What is the name of Ross' son?;[a] Jaime;[b] Jordan;[c] Ben;[d] Darwin;c;
+*What is the most famous line of Joey?;[a] "Pivot!";[b] "Oh my God!";[c] "How you doin'?";[d] "We were on a break!";c;
+*What is Rachel's surname?;[a] Greene;[b] Geller;[c] Bing;[d] Buffay;a;

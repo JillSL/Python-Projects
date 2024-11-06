@@ -1,0 +1,10 @@
+*The following are areas of Computer Science except:;[a] Theory of Computation;[b] Machine Organization and Architecture;[c] Machine Intelligence;[d] Decision support;d
+*It is a formal language designed to communicate tasks to a machine.;[a] Programming Language;[b] Syntax;[c] Semantics;[d] Programming Grammar;a
+*It defines which strings of characters and symbols are well formed.;[a] Syntax;[b] Semantics;[c] Primitive Constructs;[d] Grammar;a
+*It associates a meaning with each string of symbols.;[a] Syntax;[b] Semantics;[c] Primitive Constructs;[d] Grammar;b
+*This is true if and only if A is false.;[a] not A;[b] A and B;[c] A or B;[d] None of the above;a
+*This is true if and only if at least one of A or B is true.;[a] not A;[b] A and B;[c] A or B;[d] None of the above;c
+*This is true if and only if both A and B are true.;[a] not A;[b] A and B;[c] A or B;[d] None of the above;b
+*It is short for else if.;[a] elf;[b] elif;[c] elsif;[d] else;b
+*This is the symbol representing "not equal";[a] =/;[b] /=;[c] =!;[d] !=;d
+*This operator is used to concatenate strings.;[a] +;[b] :;[c] *;[d] /;a
