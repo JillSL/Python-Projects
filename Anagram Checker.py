@@ -11,15 +11,15 @@ def are_anagrams():
         print("The words you provided are NOT anagrams. \n")
         print("Let's try again! \n")
     
-    while True:  # Loop until valid input is provided
+    while True:
         user_response = input("Do you want to try again? (yes/no) \n")
         
         if user_response.lower() == "yes" or user_response.lower() == "yes.":
-            are_anagrams()  # Recursively call the function if "yes"
-            break  # Break the loop if the user enters "yes"
+            are_anagrams()
+            break
         elif user_response.lower() == "no" or user_response.lower() == "no.":
             print("Goodbye!")
-            break  # Exit the loop if "no" is entered
+            break
         else:
             print("ERROR! Invalid response. Please type 'yes' or 'no'.")
 
