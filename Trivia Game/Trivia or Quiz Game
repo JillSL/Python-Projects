@@ -1,5 +1,4 @@
 #SAN LUIS, Jillian Joy C.
-#CMSC 11 U-3L
 #Project: trivia/quiz game
 
 def randomize(x):
