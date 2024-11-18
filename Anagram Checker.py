@@ -5,6 +5,10 @@ def are_anagrams():
     word_1 = input("Please type in the first word. \n")
     word_2 = input("Please type in the second word. \n")
     
+    # Remove spaces and convert both words to lowercase before sorting
+    word_1 = word_1.replace(" ", "").lower()
+    word_2 = word_2.replace(" ", "").lower()
+    
     if sorted(word_1) == sorted(word_2):
         print("The words you provided are anagrams.")
     else:
