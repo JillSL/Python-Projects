@@ -4,18 +4,18 @@ Welcome to the Python-Projects repository! 👋
 This repository features a collection of beginner-friendly Python scripts designed to solve everyday problems and provide fun, practical tasks. Explore, learn, and enjoy coding with these simple yet effective Python programs.
 
 1. **Trivia Game**  
-   This is a fun and interactive quiz game that features multiple-choice questions. Test your knowledge and see how many questions you can answer correctly!
+This is a fun and interactive quiz game featuring multiple-choice questions. It includes three difficulty levels and five categories: FRIENDS-zoned, CMSC 11, Coldplaying, Swift Mania, and Sheeran Fetish. The categories are stored in editable, text-formatted documents. Test your knowledge and see how many questions you can answer correctly!
 
 2. **Anagram Checker**  
-   This tool determines whether two words or phrases are anagrams of each other. It ignores spaces and case sensitivity in its analysis.
+   This tool determines whether two words or phrases are anagrams of each other, ignoring spaces and case sensitivity.
 
-3. **Palindrome Checker**  
+4. **Palindrome Checker**  
    This program checks if a given word or phrase is a palindrome, meaning it reads the same backward as it does forward.
 
-4. **Temperature Converter**  
-   This script allows you to convert temperatures between Celsius, Fahrenheit, and Kelvin easily.
+5. **Temperature Converter**  
+   This script allows you to convert temperatures between Celsius, Fahrenheit, Kelvin, and Rankine easily.
 
-5. **Word Reversal Tool**  
+6. **Word Reversal Tool**  
    This tool takes a word or sentence as input and returns its reversed version.
 
 ## 💻 Getting Started
